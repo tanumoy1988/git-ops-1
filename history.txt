@@ -1,3 +1,5 @@
+   83  git config --global user.email "varunmanik1@gmail.com"
+   84  git config --global user.name "Varun"
 
   133  vim index.html 
   134  git status 
