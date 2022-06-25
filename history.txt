@@ -1,0 +1,14 @@
+
+  133  vim index.html 
+  134  git status 
+  135  git add . 
+  136  git add index.html 
+  137  git status 
+  138  git commit -am" adding another line"
+  139  git push 
+  140  git logs
+  141  git log
+  142  git log --oneline
+  143  history 
+  144  vim history.txt
+  145  history
